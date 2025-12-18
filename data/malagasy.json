@@ -1,0 +1,950 @@
+[
+  {
+    "teny": "mianatra",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manao asa fianarana na fiofanana amin'ny zavatra iray",
+    "ohatra": "Mianatra ny teny frantsay izy any an-tsekoly."
+  },
+  {
+    "teny": "tanàna",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Toerana fonenan'olona maro misy tranobe sy lalana",
+    "ohatra": "Antananarivo no tanàna lehibe indrindra eto Madagasikara."
+  },
+  {
+    "teny": "rano",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Ranoka madio tsy misy loko sy fofona, ilaina ho an'ny fiainana",
+    "ohatra": "Misotro rano madio isan'andro ny olombelona."
+  },
+  {
+    "teny": "maso",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fahaizan'ny olona mijery sy mahita",
+    "ohatra": "Manana maso manga ny zanako vavy."
+  },
+  {
+    "teny": "mandeha",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Mifindra toerana amin'ny alalan'ny tongotra",
+    "ohatra": "Mandeha any an-tsekoly isan'andro ny ankizy."
+  },
+  {
+    "teny": "tsara",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana kalitao na toetra mahafa-po",
+    "ohatra": "Tsara fanahy io mpampianatra io."
+  },
+  {
+    "teny": "fahavaratra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fotoana mafana indrindra amin'ny taona, aorian'ny ririnina",
+    "ohatra": "Mangatsiaka ny ririnina fa mafana ny fahavaratra."
+  },
+  {
+    "teny": "mihira",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Mamoaka feo mozika amin'ny vava",
+    "ohatra": "Mihira ny hiram-pirenena isan'andro ny mpianatra."
+  },
+  {
+    "teny": "kitapo",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zavatra azo entina misy toerana hitahirizana entana",
+    "ohatra": "Nitondra kitabo boky izy rahampitso."
+  },
+  {
+    "teny": "mangatsiaka",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana toetra tsy mafana, mety hampiharafesen'ny olona",
+    "ohatra": "Mangatsiaka ny andro any an-tendrombohitra."
+  },
+  {
+    "teny": "fahitana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zavatra hita na jerena amin'ny maso",
+    "ohatra": "Mahagaga ny fahitana tany amin'ny ala."
+  },
+  {
+    "teny": "milalao",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manao asa fialamboly na lalao mba hifaliana",
+    "ohatra": "Milalao baolina kitra ny ankizy any an-kianja."
+  },
+  {
+    "teny": "hazo",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zavamaniry lehibe misy vatan-kazo sy ravina",
+    "ohatra": "Mena ny ravina ny hazo any an'ala."
+  },
+  {
+    "teny": "mamaky",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Mijery soratra ary mahatakatra ny dikany",
+    "ohatra": "Mamaky boky isan'alina Rabe."
+  },
+  {
+    "teny": "maitso",
+    "karazana": "mpamaritra",
+    "fanazavana": "Loko toy ny an'ny ravina na ahitra",
+    "ohatra": "Maitso ny bodin'ny ankizy mpianatra."
+  },
+  {
+    "teny": "fandroana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fombafomba na fanao fanasana ny vatana amin'ny rano",
+    "ohatra": "Manao fandroana isan'andro ny olona madio."
+  },
+  {
+    "teny": "miteny",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Mamoaka teny na resaka amin'ny alalan'ny vava",
+    "ohatra": "Mahay miteny teny anglisy izy."
+  },
+  {
+    "teny": "masaka",
+    "karazana": "mpamaritra",
+    "fanazavana": "Efa vita na voaomana tsara ho hanina",
+    "ohatra": "Masaka ny vary ato anaty vilany."
+  },
+  {
+    "teny": "fahafatesana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Faran'ny fiainana, fotoana iainan'ny olona rehefa maty",
+    "ohatra": "Mampalahelo ny fahafatesan'ny olon-tiana."
+  },
+  {
+    "teny": "miaina",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manana aina, velona, mandany ny fotoana amin'ny fiainana",
+    "ohatra": "Miaina amim-pifaliana izy any ambanivohitra."
+  },
+  {
+    "teny": "trano",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Tranobe naorina ho fonenana na fitehirizana entana",
+    "ohatra": "Lehibe ny trano natsangany tany an-tanàna."
+  },
+  {
+    "teny": "mihomehy",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Maneho fifaliana na fahafinaretana amin'ny alalan'ny vava mitsangana",
+    "ohatra": "Mihomehy foana izy satria sambatra."
+  },
+  {
+    "teny": "malalaka",
+    "karazana": "mpamaritra",
+    "fanazavana": "Tsy voafetra, manana fahalalahana hanao izay tiany",
+    "ohatra": "Malalaka ny fiainany any ambanivohitra."
+  },
+  {
+    "teny": "fahitana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zavatra hita na jerena amin'ny maso",
+    "ohatra": "Mahagaga ny fahitana tany amin'ny ala."
+  },
+  {
+    "teny": "mikasa",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manapa-kevitra na manomana hanao zavatra",
+    "ohatra": "Mikasa handeha any Nosy Be izy amin'ny fahavaratra."
+  },
+  {
+    "teny": "mafy",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana hery na tanjaka, tsy mora vaky na simba",
+    "ohatra": "Mafy ny vato nolalovantsika tany an-dalambe."
+  },
+  {
+    "teny": "fahombiazana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fahatanterahana ny tanjona na ny ezaka atao",
+    "ohatra": "Niteraka fahombiazana ny fikatsahany nianatra."
+  },
+  {
+    "teny": "mamono",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manafoana ny ain'olona na biby",
+    "ohatra": "Tsy tokony mamono bibidia ny olombelona."
+  },
+  {
+    "teny": "mahafinaritra",
+    "karazana": "mpamaritra",
+    "fanazavana": "Mampifaly na mampahalemy fahatsapana",
+    "ohatra": "Mahafinaritra ny rivotra any amoron-dranomasina."
+  },
+  {
+    "teny": "fahadisoana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Tsy fahombiazana na tsy fahamarinan'ny atao",
+    "ohatra": "Mianatra amin'ny fahadisoana ny olombelona."
+  },
+  {
+    "teny": "mamokatra",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manao na manamboatra zavatra ho an'ny fampiasana",
+    "ohatra": "Mamokatra akondro be any amin'ny tanimbaniny izy."
+  },
+  {
+    "teny": "madio",
+    "karazana": "mpamaritra",
+    "fanazavana": "Tsy misy loto na fahalotoana",
+    "ohatra": "Madio ny rano any an-dohasaha."
+  },
+  {
+    "teny": "fanantenana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fiandrasana ny zavatra tiana na andrasana",
+    "ohatra": "Be fanantenana ny tanora amin'ny ho avy."
+  },
+  {
+    "teny": "mamaly",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manome valiny na setrin'ny fanontaniana",
+    "ohatra": "Mamaly ny fanontanian'ny mpampianatra ny mpianatra."
+  },
+  {
+    "teny": "manga",
+    "karazana": "mpamaritra",
+    "fanazavana": "Loko toy ny an'ny lanitra na ranomasina",
+    "ohatra": "Manga ny loko tian-dRasoa."
+  },
+  {
+    "teny": "fahafinaretana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fahatsapana sambatra na faly noho ny zavatra iray",
+    "ohatra": "Fahafinaretana ny fijerena ny zaza milalao."
+  },
+  {
+    "teny": "mamangy",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Mitsidika olona na toerana iray",
+    "ohatra": "Mamangy ny dadatoany isan-kerinandro izy."
+  },
+  {
+    "teny": "matanjaka",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana hery ara-batana na toetra",
+    "ohatra": "Matanjaka ny toetr'andro androany."
+  },
+  {
+    "teny": "fahafahana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zo na fahalalahana hanao izay tiana",
+    "ohatra": "Fahafahana miventy ny olona any an-tsena."
+  },
+  {
+    "teny": "mametraka",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manendry na manisy zavatra eo amin'ny toerana iray",
+    "ohatra": "Mametraka ny boky eo ambony latabatra ny mpianatra."
+  },
+  {
+    "teny": "mavo",
+    "karazana": "mpamaritra",
+    "fanazavana": "Loko toy ny an'ny voasary na labozia",
+    "ohatra": "Mavo ny ravinkazo any an-tsaha."
+  },
+  {
+    "teny": "fahalalana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Ny zavatra rehetra fantatra na ianarana",
+    "ohatra": "Be fahalalana ny lehilahy antitra tany amin'ny fokontany."
+  },
+  {
+    "teny": "mamonjy",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manafaka amin'ny loza na fahoriana",
+    "ohatra": "Mamonjy ny olona amin'ny aretina ny dokotera."
+  },
+  {
+    "teny": "mainty",
+    "karazana": "mpamaritra",
+    "fanazavana": "Loko maizina indrindra, toy ny aizim-pito",
+    "ohatra": "Mainty ny volony sy ny masony."
+  },
+  {
+    "teny": "fahoriana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Toetra mampalahelo na sarotra eo amin'ny fiainana",
+    "ohatra": "Niteraka fahoriana ny mosary tamin'ny taona lasa."
+  },
+  {
+    "teny": "manao",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manao asa na zavatra iray",
+    "ohatra": "Manao asa tanana ny vehivavy any ambanivohitra."
+  },
+  {
+    "teny": "mamy",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana tsiro mampifaly vava toy ny siramamy",
+    "ohatra": "Mamy ny voankazo any an-tanimbaly."
+  },
+  {
+    "teny": "fahagagana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zavatra tsy mahazatra na miavaka",
+    "ohatra": "Fahagagana ny hatsaran'ny zanatany malagasy."
+  },
+  {
+    "teny": "manampy",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Manao izay hanomezana fanampiana",
+    "ohatra": "Manampy ny ray aman-dreny ny ankizy any an-tokantrano."
+  },
+  {
+    "teny": "mangidy",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana tsiro mampangidy vava",
+    "ohatra": "Mangidy ny fanafody atolotry ny dokotera."
+  },
+  {
+    "teny": "fahazotoana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Fitomboan'ny hery faniriana hanao zavatra",
+    "ohatra": "Be fahazotoana ny mpianatra vaovao."
+  },
+  {
+    "teny": "manantena",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Miandry na manompo teny zavatra iray",
+    "ohatra": "Manantena ny hanafaka azy ny mpanjaka."
+  },
+  {
+    "teny": "maivana",
+    "karazana": "mpamaritra",
+    "fanazavana": "Tsy mavesatra, mora entina na atao",
+    "ohatra": "Maivana ny entany satria tsy nisy zavatra be loatra."
+  },
+  {
+    "teny": "fahasambarana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Toetra mampiseho fifaliana sy fahafaham-po",
+    "ohatra": "Fahasambarana no ahitana ny ankizy milalao."
+  },
+  {
+    "teny": "manao ahoana",
+    "karazana": "fehezanteny fanehoana fiarahabana",
+    "fanazavana": "Fomba fiarahabana na fanontaniana momba ny toetry ny olona iray",
+    "ohatra": "Manao ahoana ianao androany?"
+  },
+  {
+    "teny": "veloma",
+    "karazana": "fehezanteny fanaovam-beloma",
+    "fanazavana": "Tenin'ny fanaovam-beloma na fialana",
+    "ohatra": "Veloma, ho avy indray aho rahampitso."
+  },
+  {
+    "teny": "azafady",
+    "karazana": "fehezanteny fangataham-pamelan-tsiny",
+    "fanazavana": "Tenin'ny fangataham-pamelan-tsiny na fangatahana fanampiana",
+    "ohatra": "Azafady, afaka manontany ve aho?"
+  },
+  {
+    "teny": "misaotra",
+    "karazana": "matovy matoanteny",
+    "fanazavana": "Maneho fankasitrahana na fiderana",
+    "ohatra": "Misaotra anao noho ny fanampiana nataonao."
+  },
+  {
+    "teny": "eny",
+    "karazana": "tovona fanamafisana",
+    "fanazavana": "Fanamafisana ny marina na ny ekena",
+    "ohatra": "Eny, izany no marina."
+  },
+  {
+    "teny": "tsia",
+    "karazana": "tovona fandavana",
+    "fanazavana": "Fanehoana tsy fanekena na fandavana",
+    "ohatra": "Tsia, tsy izany no nolazaiko."
+  },
+  {
+    "teny": "tsy",
+    "karazana": "tovona fandavana",
+    "fanazavana": "Ampiasaina hanovana teny ho fandavana",
+    "ohatra": "Tsy mbola tonga izy."
+  },
+  {
+    "teny": "ankehitriny",
+    "karazana": "tovona famantarana fotoana",
+    "fanazavana": "Fotoana ankehitriny na izao fotoana izao",
+    "ohatra": "Ankehitriny no fotoana handehanana."
+  },
+  {
+    "teny": "omaly",
+    "karazana": "tovona famantarana fotoana",
+    "fanazavana": "Andro iray lasa izay",
+    "ohatra": "Nandeha omaly izy tany an-tanàna."
+  },
+  {
+    "teny": "rahampitso",
+    "karazana": "tovona famantarana fotoana",
+    "fanazavana": "Andro manaraka ny anio",
+    "ohatra": "Ho avy rahampitso ny mpitsidika."
+  },
+  {
+    "teny": "ao",
+    "karazana": "tovona famantarana toerana",
+    "fanazavana": "Toerana lavitra ny mpandahateny fa akaikin'ny mpihaino",
+    "ohatra": "Mipetraka ao an-trano izy."
+  },
+  {
+    "teny": "ety",
+    "karazana": "tovona famantarana toerana",
+    "fanazavana": "Toerana akaikin'ny mpandahateny",
+    "ohatra": "Avia ety amiko."
+  },
+  {
+    "teny": "aty",
+    "karazana": "tovona famantarana toerana",
+    "fanazavana": "Toerana misy ny mpandahateny",
+    "ohatra": "Aty anaty trano no misy azy."
+  },
+  {
+    "teny": "any",
+    "karazana": "tovona famantarana toerana",
+    "fanazavana": "Toerana lavitry ny mpandahateny sy ny mpihaino",
+    "ohatra": "Any an-danja no misy ny tranony."
+  },
+  {
+    "teny": "izao",
+    "karazana": "tovona famantarana fotoana",
+    "fanazavana": "Fotoana ankehitriny",
+    "ohatra": "Izao no fotoana hanaovana izany."
+  },
+  {
+    "teny": "izay",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hampifandraisana fehezanteny",
+    "ohatra": "Ny olona izay mianatra dia mahavita zavatra."
+  },
+  {
+    "teny": "izy",
+    "karazana": "anarana mpisolo",
+    "fanazavana": "Mpisolo anarana olona fahatelo tokana",
+    "ohatra": "Izy no lehibe indrindra amin'ny mpianatra."
+  },
+  {
+    "teny": "aho",
+    "karazana": "anarana mpisolo",
+    "fanazavana": "Mpisolo anarana olona voalohany tokana",
+    "ohatra": "Aho no handeha any an-tsekoly."
+  },
+  {
+    "teny": "ianao",
+    "karazana": "anarana mpisolo",
+    "fanazavana": "Mpisolo anarana olona faharoa tokana",
+    "ohatra": "Ianao no tokony hanao izany asa izany."
+  },
+  {
+    "teny": "isika",
+    "karazana": "anarana mpisolo",
+    "fanazavana": "Mpisolo anarana olona voalohany maro an'isa",
+    "ohatra": "Isika rehetra dia tokony hiara-miasa."
+  },
+  {
+    "teny": "izany",
+    "karazana": "mpisolo anarana zavatra",
+    "fanazavana": "Mpisolo anarana zavatra lavitra",
+    "ohatra": "Izany no tokony hatao."
+  },
+  {
+    "teny": "ireo",
+    "karazana": "mpisolo anarana zavatra",
+    "fanazavana": "Mpisolo anarana zavatra maro",
+    "ohatra": "Ireo boky ireo dia azo vakiana."
+  },
+  {
+    "teny": "inona",
+    "karazana": "mpanontany",
+    "fanazavana": "Fanontaniana momba ny anaran'ny zavatra",
+    "ohatra": "Inona no atao hoe 'fahalalana'?"
+  },
+  {
+    "teny": "iza",
+    "karazana": "mpanontany",
+    "fanazavana": "Fanontaniana momba ny anaran'ny olona",
+    "ohatra": "Iza no handeha any an-tsekoly?"
+  },
+  {
+    "teny": "aiza",
+    "karazana": "mpanontany",
+    "fanazavana": "Fanontaniana momba ny toerana",
+    "ohatra": "Aiza no misy ny tranomboky?"
+  },
+  {
+    "teny": "oviana",
+    "karazana": "mpanontany",
+    "fanazavana": "Fanontaniana momba ny fotoana",
+    "ohatra": "Oviana no hiverenan-dRabe?"
+  },
+  {
+    "teny": "ahoana",
+    "karazana": "mpanontany",
+    "fanazavana": "Fanontaniana momba ny fomba na ny toetra",
+    "ohatra": "Ahoana no fomba fanaovana ity sakafo ity?"
+  },
+  {
+    "teny": "firy",
+    "karazana": "mpanontany",
+    "fanazavana": "Fanontaniana momba ny isa",
+    "ohatra": "Firy ny taonanao?"
+  },
+  {
+    "teny": "ve",
+    "karazana": "tovona fanontaniana",
+    "fanazavana": "Ampiana amin'ny faran'ny fehezanteny hanontaniana",
+    "ohatra": "Tonga ve izy?"
+  },
+  {
+    "teny": "moa",
+    "karazana": "tovona fanontaniana",
+    "fanazavana": "Ampiasaina hanontaniana na hanamafisana",
+    "ohatra": "Moa ve ianao no handeha?"
+  },
+  {
+    "teny": "na",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanomezana safidy roa",
+    "ohatra": "Na ianao na izy no handeha."
+  },
+  {
+    "teny": "fa",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanamafisana na hanohitra hevitra",
+    "ohatra": "Tsy izy no nanao izany, fa izy."
+  },
+  {
+    "teny": "kanefa",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanehoana fanoherana",
+    "ohatra": "Mbola kely izy, kanefa mahay mamaky teny."
+  },
+  {
+    "teny": "raha",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanehoana fepetra",
+    "ohatra": "Raha tonga izy, dia hilaza aminao."
+  },
+  {
+    "teny": "rehefa",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanehoana fotoana",
+    "ohatra": "Rehefa tonga izy, dia hiresaka aminy aho."
+  },
+  {
+    "teny": "satria",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanehoana antony",
+    "ohatra": "Tsy handeha aho satria marary."
+  },
+  {
+    "teny": "nefa",
+    "karazana": "mpampitohy",
+    "fanazavana": "Ampiasaina hanehoana fanoherana",
+    "ohatra": "Mbola kely izy, nefa mahay miteny teny anglisy."
+  },
+  {
+    "teny": "toy",
+    "karazana": "mpampitaha",
+    "fanazavana": "Ampiasaina hanehoana fampitahana",
+    "ohatra": "Mafy toy ny vato ny lohany."
+  },
+  {
+    "teny": "tahaka",
+    "karazana": "mpampitaha",
+    "fanazavana": "Ampiasaina hanehoana fitoviana",
+    "ohatra": "Tahaka ny vorona ny fihobiana ny zaza."
+  },
+  {
+    "teny": "toy izany",
+    "karazana": "fehezanteny famintinana",
+    "fanazavana": "Famintinana ny resaka na hevitra",
+    "ohatra": "Toy izany no tokony hanaovana izany."
+  },
+  {
+    "teny": "marina",
+    "karazana": "mpamaritra",
+    "fanazavana": "Mifanaraka amin'ny zava-misy",
+    "ohatra": "Marina ny vaovao nentinao."
+  },
+  {
+    "teny": "diso",
+    "karazana": "mpamaritra",
+    "fanazavana": "Tsy marina na tsy mety",
+    "ohatra": "Diso ny valin'ny fanontaniana nataony."
+  },
+  {
+    "teny": "samy",
+    "karazana": "mpamaritra",
+    "fanazavana": "Ampiasaina hanehoana ny mizara tanjaka",
+    "ohatra": "Samy nandray anjara tamin'ny asa izy ireo."
+  },
+  {
+    "teny": "tsirairay",
+    "karazana": "mpamaritra",
+    "fanazavana": "Olona na zavatra iray isa iray",
+    "ohatra": "Tsirairay avy no nanome ny heviny."
+  },
+  {
+    "teny": "rehetra",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manontany ny zavatra na olona iray manontolo",
+    "ohatra": "Ny olona rehetra dia afaka mianatra."
+  },
+  {
+    "teny": "sasany",
+    "karazana": "mpamaritra",
+    "fanazavana": "Ampiasaina hanehoana ny ampahany",
+    "ohatra": "Sasany amin'izy ireo no tsy tia hianatra."
+  },
+  {
+    "teny": "havana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona iray amin'ny fianakaviana na havana",
+    "ohatra": "Be havana any ambanivohitra Rakoto."
+  },
+  {
+    "teny": "namana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona iray ifandraisana tsara aminy",
+    "ohatra": "Nandeha niaraka tamin'ny namany izy."
+  },
+  {
+    "teny": "sakaiza",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Namana akaiky na tia",
+    "ohatra": "Sakaiza hatramin'ny fahazazana izy ireo."
+  },
+  {
+    "teny": "fahavalo",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona na vondrona manohitra na mampidi-doza",
+    "ohatra": "Tsy tokony hanana fahavalo ny olona tsara fanahy."
+  },
+  {
+    "teny": "mpanampy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manome fanampiana",
+    "ohatra": "Mpanampy amin'ny asa tanana ny vehivavy any an-tokantrano."
+  },
+  {
+    "teny": "mpianatra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mianatra na mandany fotoana amin'ny fianarana",
+    "ohatra": "Mpianatra mahay izy any an-tsekoly."
+  },
+  {
+    "teny": "mpampianatra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manome lesona na torohevitra amin'ny hafa",
+    "ohatra": "Mpampianatra teny frantsay ny raiko."
+  },
+  {
+    "teny": "mpanjifa",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mitady asa na mianatra amin'ny hafa",
+    "ohatra": "Mpanjifa ny zaza any an-tsekoly."
+  },
+  {
+    "teny": "mpanety",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fanapahana na fanjairana",
+    "ohatra": "Mpanety hazo ny dadako any an-tanimboly."
+  },
+  {
+    "teny": "mpivarotra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mivarotra entana na tolotra",
+    "ohatra": "Mpivarotra legioma ny reniko any an-tsena."
+  },
+  {
+    "teny": "mpividy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mividy entana na tolotra",
+    "ohatra": "Mpividy vary any an-tsena ny vehivavy."
+  },
+  {
+    "teny": "mpanompo",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manompo na manao asa fanompoana",
+    "ohatra": "Mpanompo any an-trano ny tovovavy."
+  },
+  {
+    "teny": "mpanara-dia",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manaraka na mankahala ny hevitry ny hafa",
+    "ohatra": "Mpanara-dia ny fomba nentim-paharazana ny olona antitra."
+  },
+  {
+    "teny": "mpanohitra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manohitra na tsy manaiky ny hevitry ny hafa",
+    "ohatra": "Mpanohitra ny fanovana ny olona sasany."
+  },
+  {
+    "teny": "mpanao politika",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona miasa amin'ny raharaham-panjakana",
+    "ohatra": "Mpanao politika malaza izy any amin'ny faritany."
+  },
+  {
+    "teny": "dokotera",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manam-pahaizana momba ny fitsaboana",
+    "ohatra": "Dokotera any amin'ny hopitaly izy."
+  },
+  {
+    "teny": "mpitsabo",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fitsaboana",
+    "ohatra": "Mpitsabo nify ny anadahiko."
+  },
+  {
+    "teny": "mpanandro",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao faminaniana na torohevitra ara-panandroana",
+    "ohatra": "Mpanandro malaza any amin'ny fokontany izy."
+  },
+  {
+    "teny": "mpanefy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fanefena vy na metaly",
+    "ohatra": "Mpanefy vy ny rahalahiko."
+  },
+  {
+    "teny": "mpandrafitra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fanorenana trano",
+    "ohatra": "Mpandrafitra mahay izy any an-tanàna."
+  },
+  {
+    "teny": "tantsaha",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fambolena",
+    "ohatra": "Tantsaha ny rainy tany ambanivohitra."
+  },
+  {
+    "teny": "mpiompy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fiompiana",
+    "ohatra": "Mpiompy omby ny dadatoany any an-tendrombohitra."
+  },
+  {
+    "teny": "mpanjanaka",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fanjanahana tany",
+    "ohatra": "Mpanjanaka tany any an-tsaha ny rainy."
+  },
+  {
+    "teny": "mpanefy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fanefena vy na metaly",
+    "ohatra": "Mpanefy vy ny rahalahiko."
+  },
+  {
+    "teny": "mpanao asa tanana",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa amin'ny tanana",
+    "ohatra": "Mpanao asa tanana ny vehivavy any ambanivohitra."
+  },
+  {
+    "teny": "mpanety volo",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manety volon'olona",
+    "ohatra": "Mpanety volo any an-tsena izy."
+  },
+  {
+    "teny": "mpanao kiraro",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao na manamboatra kiraro",
+    "ohatra": "Mpanao kiraro mahay izy any an-tanàn-dehibe."
+  },
+  {
+    "teny": "mpanao lamba",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao na manamboatra lamba",
+    "ohatra": "Mpanao lamba landy ny nentin-drazana."
+  },
+  {
+    "teny": "mpanonta printy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa fanontana printy",
+    "ohatra": "Mpanonta printy any an-tranon'ny governemanta izy."
+  },
+  {
+    "teny": "mpandraharaha",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mitantana raharaham-barotra",
+    "ohatra": "Mpandraharaha orinasa ny dadako."
+  },
+  {
+    "teny": "mpikarama",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa amin'ny orinasa na fikambanana",
+    "ohatra": "Mpikarama any amin'ny banky izy."
+  },
+  {
+    "teny": "mpiasa",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manao asa amin'ny toerana iray",
+    "ohatra": "Mpiasam-panjakana ny raiko."
+  },
+  {
+    "teny": "tompon'andraikitra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manana andraikitra lehibe",
+    "ohatra": "Tompon'andraikitra any amin'ny sampam-pianarana izy."
+  },
+  {
+    "teny": "lehibe",
+    "karazana": "mpamaritra",
+    "fanazavana": "Manana habe na toerana ambony",
+    "ohatra": "Lehibe ny tranon'ny governora."
+  },
+  {
+    "teny": "kely",
+    "karazana": "mpamaritra",
+    "fanazavana": "Tsy lehibe, manana habe madinika",
+    "ohatra": "Kely ny trano nolazainy."
+  },
+  {
+    "teny": "antitra",
+    "karazana": "mpamaritra",
+    "fanazavana": "Efa lehibe taona, efa niaina ela",
+    "ohatra": "Antitra ny olona manam-pahaizana indrindra any amin'ny fokontany."
+  },
+  {
+    "teny": "tanora",
+    "karazana": "mpamaritra",
+    "fanazavana": "Tsy antitra, efa lehibe nefa tsy antitra",
+    "ohatra": "Tanora ny mpampianatra vaovao."
+  },
+  {
+    "teny": "zokiolona",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona efa antitra",
+    "ohatra": "Manaja ny zokiolona ny Malagasy."
+  },
+  {
+    "teny": "zazakely",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zaza mbola kely",
+    "ohatra": "Mila fiambenana ny zazakely."
+  },
+  {
+    "teny": "ankizy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mbola kely taona",
+    "ohatra": "Mianatra any an-tsekoly ny ankizy."
+  },
+  {
+    "teny": "tanora",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona efa lehibe nefa mbola tsy antitra",
+    "ohatra": "Be tanora any amin'ny toeram-piasana."
+  },
+  {
+    "teny": "olona",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zavamanan'aina manan-tsaina",
+    "ohatra": "Olona maro no tonga tany an-dian-dalana."
+  },
+  {
+    "teny": "lehilahy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona lahy efa lehibe",
+    "ohatra": "Lehilahy matanjaka izy."
+  },
+  {
+    "teny": "vehivavy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona vavy efa lehibe",
+    "ohatra": "Vehivavy mahay mitantana tokantrano izy."
+  },
+  {
+    "teny": "zaza",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona mbola kely taona",
+    "ohatra": "Mila ny fitandreman'ny ray aman-dreny ny zaza."
+  },
+  {
+    "teny": "ray",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Ray aman-dreny lahy",
+    "ohatra": "Ray tokana ny zanany."
+  },
+  {
+    "teny": "reny",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Ray aman-dreny vavy",
+    "ohatra": "Reny mahay mitaiza zaza izy."
+  },
+  {
+    "teny": "zanaka",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zaza na olona terakin'ny ray aman-dreny",
+    "ohatra": "Zanaka telo ny anankiray."
+  },
+  {
+    "teny": "rahalahy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zanakalahin'ny ray aman-dreny iray",
+    "ohatra": "Rahalahy zokiny izy."
+  },
+  {
+    "teny": "anabavy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zanakavavin'ny ray aman-dreny iray",
+    "ohatra": "Anabavy zokiny izy."
+  },
+  {
+    "teny": "dadatoa",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Rahalahin'ny ray na ny reny",
+    "ohatra": "Dadatoa any an-dohasaha izy."
+  },
+  {
+    "teny": "nenitoa",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Anabavin'ny ray na ny reny",
+    "ohatra": "Nenitoa any an-tanàna izy."
+  },
+  {
+    "teny": "zafy",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Zanak'ny zanaka",
+    "ohatra": "Zafy telo ny anankiray."
+  },
+  {
+    "teny": "dadabe",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Ray ny ray aman-dreny",
+    "ohatra": "Dadabe any ambanivohitra izy."
+  },
+  {
+    "teny": "nenibe",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Reny ny ray aman-dreny",
+    "ohatra": "Nenibe mahay mitaiza zaza izy."
+  },
+  {
+    "teny": "mpampakatra",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona manambady",
+    "ohatra": "Mpampakatra vaovao izy."
+  },
+  {
+    "teny": "vady",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Olona iray amin'ny fanambadiana",
+    "ohatra": "Vady mahay mitantana tokantrano izy."
+  },
+  {
+    "teny": "sakaiza",
+    "karazana": "anarana iombonana",
+    "fanazavana": "Namana akaiky na tia",
+    "ohatra": "Sakaiza hatramin'ny fahazazana izy ireo."
+  }
+]
