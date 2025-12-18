@@ -1,4 +1,4 @@
-# **Rapport de Projet \- PoketraFinday**
+# **Rapport de Projet \- Clinique**
 
 ## **Examen Clinnique IA**
 
